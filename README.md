@@ -14,7 +14,3 @@ This project applies Linear Regression on the Insurance dataset to predict medic
 - Seaborn
 - Scikit-learn
 
-your-project-folder/
-├── insurance.csv
-├── Linear_Regression_Insurance.ipynb
-└── README.md
